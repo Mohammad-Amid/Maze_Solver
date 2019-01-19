@@ -1,5 +1,7 @@
 # Maze_Solver
 In this project, I use Q learning, value and policy iteration to solve 5 * 5 and 25 * 25 maze puzzle.
+
+The green square is start point and red squares are enf points.
 ![fig1 5 5](https://user-images.githubusercontent.com/36969831/51427578-cca50f00-1c0e-11e9-8c64-d3d791271445.png)
 
 
